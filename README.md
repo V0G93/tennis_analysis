@@ -7,7 +7,7 @@ Dive into the dynamic world of tennis! The project tracks players' speed, ball v
 ## Output 🎥
 Check out a snapshot from the analysis:
 
-![image](runs\detect\predict2\image.png)
+![Alt text](https://github.com/V0G93/tennis_analysis/blob/main/runs/detect/predict/image.png)
 
 ## Tech Used 🛠️
 - **Player Detection:** YOLO v8
