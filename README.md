@@ -2,7 +2,7 @@
 # 🎾 Tennis Analysis 🚀
 
 ## Intro 🌟
-Dive into the dynamic world of tennis! Our project tracks players' speed, ball velocity, and shot count using cutting-edge YOLO and CNN technologies. It's a hands-on way to boost your skills in machine learning and computer vision. 
+Dive into the dynamic world of tennis! Our project tracks players' speed, ball velocity, and shot count using cutting-edge YOLO and CNN technologies. It's a hands-on way to boost your skills in machine learning and computer vision.
 
 ## Output 🎥
 Check out a snapshot from our analysis:
